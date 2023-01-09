@@ -1,0 +1,9 @@
+{
+        "prefix": "}",
+        "color": "#ffe900",
+        "cooldown_msg": "Aguarde `<duration>` para executar o comando novamente!",
+        
+        "erromsg": {
+            "titulo": "Ocorreu um Erro!"
+        }
+}
